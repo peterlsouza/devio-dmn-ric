@@ -1,0 +1,14 @@
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.deps.json
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.dll
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.pdb
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.dll
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.pdb
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.csprojAssemblyReference.cache
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.AssemblyInfoInputs.cache
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.AssemblyInfo.cs
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.csproj.CoreCompileInputs.cache
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.csproj.CopyComplete
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.dll
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.AntiCorruption\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.AntiCorruption.pdb

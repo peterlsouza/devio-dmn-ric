@@ -1,0 +1,15 @@
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.deps.json
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.dll
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.csprojAssemblyReference.cache
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.AssemblyInfoInputs.cache
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.AssemblyInfo.cs
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.csproj.CopyComplete
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.runtimeconfig.json
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.runtimeconfig.dev.json
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\bin\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.pdb
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.csproj.CoreCompileInputs.cache
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.dll
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.pdb
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Pagamentos.Business\obj\Debug\netcoreapp3.1\NerdStore.Pagamentos.Business.genruntimeconfig.cache

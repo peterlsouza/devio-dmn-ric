@@ -1,0 +1,17 @@
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.deps.json
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.dll
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.csprojAssemblyReference.cache
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.AssemblyInfoInputs.cache
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.AssemblyInfo.cs
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.dll
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Core.dll
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Domain.pdb
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Core.pdb
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.csproj.CopyComplete
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.runtimeconfig.json
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.runtimeconfig.dev.json
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.genruntimeconfig.cache
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\bin\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.pdb
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.csproj.CoreCompileInputs.cache
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.dll
+C:\Labs\DevIO_DotNet\Modelagem Dominios Ricos\NerdStore\src\NerdStore.Catalogo.Data\obj\Debug\netcoreapp3.1\NerdStore.Catalogo.Data.pdb
